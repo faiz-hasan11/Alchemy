@@ -1,6 +1,7 @@
 <h1 align="center"> Alchemy </h1> <br>
-## Table of Contents
 
+## Table of Contents
+## Introduction
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
