@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Feedback](#feedback)
+- [Links](#link)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
 - [Backers](#backers-)
@@ -37,11 +37,10 @@ A few of the things you can do with Alchemy:
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
 
-## Feedback
+## Links
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
+- Frontend Hosted on Netifly.[Link](https://alchemy-project.netlify.app/)
+- Backend Hosted on Heroku.[Link](https://alchemy-project.herokuapp.com/)
 
 ## Contributors
 
