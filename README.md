@@ -37,10 +37,10 @@ A few of the things you can do with Alchemy:
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
 
-## Links
+## Links(#links)
 
-- Frontend Hosted on Netifly.[Link](https://alchemy-project.netlify.app/)
-- Backend Hosted on Heroku.[Link](https://alchemy-project.herokuapp.com/)
+- Frontend Hosted on Netifly. [Link](https://alchemy-project.netlify.app/)
+- Backend Hosted on Heroku. [Link](https://alchemy-project.herokuapp.com/)
 
 ## Contributors
 
