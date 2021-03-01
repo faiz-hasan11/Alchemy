@@ -1,6 +1,3 @@
-# Alchemy
-
-
 <h1 align="center"> Alchemy </h1> <br>
 <p align="center">
   Share Your Posts with world to see!
