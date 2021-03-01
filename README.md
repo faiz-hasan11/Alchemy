@@ -23,7 +23,7 @@ A few of the things you can do with Alchemy:
 </p>
 
 <p align="center">
-  <img src = "https://github.com/faiz-hasan11/Alchemy/blob/main/screenshot/posts>
+  <img src = "https://github.com/faiz-hasan11/Alchemy/blob/main/screenshot/posts.png">
 </p>
 
 ## Links
