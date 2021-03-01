@@ -1,16 +1,5 @@
 <h1 align="center"> Alchemy </h1> <br>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Links](#link)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
-
-
 ## Introduction
 Alchemy is full-stack MERN project which allows users to add , delete and like posts. It is provided with authentication system along with Google Sign In.
 
@@ -37,7 +26,7 @@ A few of the things you can do with Alchemy:
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
 
-## Links(#links)
+## Links
 
 - Frontend Hosted on Netifly. [Link](https://alchemy-project.netlify.app/)
 - Backend Hosted on Heroku. [Link](https://alchemy-project.herokuapp.com/)
