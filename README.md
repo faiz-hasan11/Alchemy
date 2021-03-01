@@ -19,11 +19,11 @@ A few of the things you can do with Alchemy:
 * Create an Account along with Google Sign In facility
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://github.com/faiz-hasan11/Alchemy/blob/main/screenshot/login.png">
 </p>
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://github.com/faiz-hasan11/Alchemy/blob/main/screenshot/posts>
 </p>
 
 ## Links
