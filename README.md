@@ -55,7 +55,4 @@ A few of the things you can do with Alchemy:
 - The `CONNECTION_URL` in `server.js` is for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating your own [MongoDB connection](https://www.mongodb.com/).
 - The `CLIENT_ID` in `frontend/src/components/Auth/Auth.js` is for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating your own [OAuth Consent Screen](https://console.developers.google.com/).
 
-
-## Acknowledgments
-
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+##### Made by Syed Faiz Hasan :wave:
