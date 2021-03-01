@@ -4,7 +4,7 @@
 Alchemy is full-stack MERN project which allows users to add , delete and like posts. It is provided with authentication system along with Google Sign In.
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://github.com/faiz-hasan11/Alchemy/blob/main/screenshot/home.png" width=350>
 </p>
 
 ## Features
