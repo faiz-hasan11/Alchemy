@@ -20,17 +20,14 @@ Alchemy is full-stack MERN project which allows users to add , delete and like p
 
 ## Features
 
-A few of the things you can do with GitPoint:
+A few of the things you can do with Alchemy:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Add and Delete Posts
+* Add Title,Message and Tags to your Post
+* Edit uploaded Posts
+* Like Posts
+* Dashboard to view only logged-in user's posts
+* Create an Account along with Google Sign In facility
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
